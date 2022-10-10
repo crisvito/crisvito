@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Crisvito</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs and laravel**
 
 - 💬 Ask me about **random thing**
 
